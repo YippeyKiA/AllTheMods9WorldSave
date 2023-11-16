@@ -1,0 +1,41 @@
+{
+	id: "454cf8de-30cc-4ffe-8bb1-708df5e92d22"
+	type: "party"
+	owner: "c2e4be55-30cb-4b16-9c56-e5fd116c96eb"
+	ranks: {
+		c2e4be55-30cb-4b16-9c56-e5fd116c96eb: "owner"
+		5661727f-7950-47d7-ba97-7d45b931fdba: "officer"
+		37b5e792-1a6d-4815-a456-19220af7c25a: "ally"
+		556f7b37-0e52-4010-83e3-f5041d4d28c9: "ally"
+		d86902fc-4b07-47be-9ea7-09e215dfee88: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "The Camels Fod"
+		"ftbteams:description": "Camel"
+		"ftbteams:color": "#FF59E0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1697983071929L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NathanGent\"}]}" }
+		{ from: "c2e4be55-30cb-4b16-9c56-e5fd116c96eb", date: 1697983077893L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"CamelFodder\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1697983082458L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CamelFodder\"}]}" }
+		{ from: "c2e4be55-30cb-4b16-9c56-e5fd116c96eb", date: 1699046433851L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"TomSpaciest\"}]}" }
+		{ from: "c2e4be55-30cb-4b16-9c56-e5fd116c96eb", date: 1699464055540L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"YippeyKiA\"}]}" }
+		{ from: "c2e4be55-30cb-4b16-9c56-e5fd116c96eb", date: 1699568040860L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Rooie\"}]}" }
+		{ from: "c2e4be55-30cb-4b16-9c56-e5fd116c96eb", date: 1699568054864L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"CamelFodder\"}]}" }
+	]
+	extra: { }
+}
